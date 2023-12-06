@@ -64,3 +64,8 @@ button:active {
     background-color: rgb(84, 4, 84);
     transform: translateY(-10px);
 }
+
+button:disabled {
+    color: red;
+    background-color: red;
+}
